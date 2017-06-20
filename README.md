@@ -13,3 +13,5 @@ Summer  Data Analytics Course
 |8/7|Fundamentals of Tableau|8/9|Visualization and Text Manipulation|
 |8/14|Calculations and Analysis in Tableau|8/16|Dashboarding in Tableau|
 |8/21|Flex day, review, catchup, workshop|8/23|Presentation|
+
+[Exit Tickets](https://docs.google.com/a/generalassemb.ly/forms/d/e/1FAIpQLSdHWXjpZ-3AQdrVzwoTE_w9IUNFJmWSBgrT8tgWtJxQtVLHyw/viewform)
