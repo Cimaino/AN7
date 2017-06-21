@@ -1,5 +1,6 @@
 # AN7
 Summer  Data Analytics Course
+Cheat sheet for entire course - email me at Matthewmorris.da@gmail.com
 
 |DATE|CLASS|DATE|CLASS|
 |:---|:----|:---|:----|
